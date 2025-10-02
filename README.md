@@ -15,6 +15,7 @@ Legado / 开源阅读
 Legado is a free and open source novel reader for Android.
 </div>
 
+-调整书架书籍列表的间距
 # 复刻仓库的所有改动
 - 新增功能
     - 音频播放支持跳过片头片尾
